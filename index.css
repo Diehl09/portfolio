@@ -5,6 +5,7 @@ body{ background: red; }
 	font-size: 100px;
 	background: blue;
 	color: white;
+	border: black;
 }
 h1{
 background: blue;
