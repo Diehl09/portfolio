@@ -3,7 +3,8 @@ body{ background: red; }
 .AJ {
 	text-align: center;
 	font-size: 100px;
-	
+	background: blue;
+	color: white;
 }
 h1{
 background: blue;
