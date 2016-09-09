@@ -3,10 +3,16 @@ body{ background: red; }
 .AJ {
 	text-align: center;
 	font-size: 100px;
-	background: blue;
-	border: white dashed;
+	
 }
-
+h1{
+background: blue;
+border: white solid;
+}
+h1:hover{
+	background: black;
+	border: green;
+}
 .grow:hover
 {
         -webkit-transform: scale(1.3);
