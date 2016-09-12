@@ -32,12 +32,12 @@ h2:hover{
 	border: blue dashed;
 }
 h3{
-	margin-left: 100px;
+	margin-left: 90px;
 	background:green;
 	color: black;
 }
 h3:hover{
-	margin-right: 50px;
+	margin-right: 80px;
 	background: black;
 	color:green;
 }
