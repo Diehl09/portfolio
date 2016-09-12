@@ -16,17 +16,14 @@ background: red;
 .AJ {
 	text-align: center;
 	font-size: 100px;
-	background: blue;
-	color: white;
-	border: black;
 }
 h1{
 background: blue;
-border: white solid;
+color: white;
 }
 h1:hover{
 	background: black;
-	border: green;
+	border: red 20px;
 
 }
 .grow:hover
