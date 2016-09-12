@@ -1,6 +1,17 @@
 body{
 	background: red;
 }
+@media screen and (min-width:800px) {
+ body{
+ 	background: red;
+ }
+ }
+
+@media screen and (min-width:800px) {
+body{
+background: black;
+}
+} 
 
 .AJ {
 	text-align: center;
