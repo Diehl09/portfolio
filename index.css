@@ -24,10 +24,10 @@ h1:hover{
 }
 
 h2: {
-	background:black;
+background:green;
 color: white;
 }
 h2:hover{
-	background: green;
+	background: black;
 	border:blue ;
 }
