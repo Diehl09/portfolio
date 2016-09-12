@@ -31,3 +31,13 @@ h2:hover{
 	background: green;
 	border: blue dashed;
 }
+h3{
+	margin-left: 100px;
+	background:green;
+	color: black;
+}
+h3:hover{
+	margin-right: 100px;
+	background: black;
+	color:green;
+}
