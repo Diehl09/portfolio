@@ -46,7 +46,7 @@ h3{
 	background:green;
 	color: black;}
 	h3:hover{
-		margin-left: 90px;
+		margin-left: 50px;
 		background: blue;
 		color: white
 	}
