@@ -44,4 +44,8 @@ h2:hover{
 h3{
 	margin-left: 90px;
 	background:green;
-	color: black;
+	color: black;}
+.list{
+	background:orange;
+	font-size: 15px;
+}
