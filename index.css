@@ -45,12 +45,7 @@ h3{
 	margin-left: 90px;
 	background:green;
 	color: black;}
-	h3:hover{
-		margin-left: 50px;
-		background: blue;
-		color: white
-	}
 .list{
-	background:orange;
-	font-size: 15px;
+	background:green;
+	font-size: 30px;
 }
