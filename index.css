@@ -13,12 +13,15 @@ background: red;
 }
 } 
 
-.AJ {
-	text-align: center;
-	font-size: 100px;
+.Aj2
+{
 	-webkit-transform: rotateZ(-30deg);
         -ms-transform: rotateZ(-30deg);
         transform: rotateZ(-30deg);
+}
+.AJ {
+	text-align: center;
+	font-size: 100px;
 
 }
 h1{
