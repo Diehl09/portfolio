@@ -36,6 +36,7 @@ h1:hover{
 h2 {
 background:black;
 color: white;
+font-size:40px;
 }
 h2:hover{
 	background: green;
