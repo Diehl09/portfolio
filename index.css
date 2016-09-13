@@ -16,6 +16,10 @@ background: red;
 .AJ {
 	text-align: center;
 	font-size: 100px;
+	-webkit-transform: rotateZ(-30deg);
+        -ms-transform: rotateZ(-30deg);
+        transform: rotateZ(-30deg);
+
 }
 h1{
 background: blue;
@@ -48,3 +52,5 @@ h3{
 	background:green;
 	font-size: 30px;
 }
+
+        
