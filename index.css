@@ -15,10 +15,15 @@ background: red;
 
 .Aj2
 {
-	-webkit-transform: rotateZ(-30deg);
+	text-align: center;
+	font-size: 100px;
+
+		-webkit-transform: rotateZ(-30deg);
         -ms-transform: rotateZ(-30deg);
         transform: rotateZ(-30deg);
 }
+
+
 .AJ {
 	text-align: center;
 	font-size: 100px;
@@ -56,4 +61,3 @@ h3{
 	font-size: 30px;
 }
 
-        
