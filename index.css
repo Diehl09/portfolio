@@ -49,3 +49,7 @@ h3{
 	background:green;
 	font-size: 30px;
 }
+.border:hover
+{
+        box-shadow: inset 0 0 0 25px #53a7ea;
+}
