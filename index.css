@@ -29,11 +29,11 @@ background: red;
 	font-size: 100px;
 
 }
-h1{
+.h1{
 background: blue;
 color: white;
 }
-h1:hover{
+.h1:hover{
 	background: black;
 	border: red 20px;
 
