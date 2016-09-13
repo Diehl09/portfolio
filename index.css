@@ -40,6 +40,7 @@ color: white;
 h2:hover{
 	background: green;
 	border: blue dashed;
+	font-size: 30px;
 }
 h3{
 	margin-left: 90px;
